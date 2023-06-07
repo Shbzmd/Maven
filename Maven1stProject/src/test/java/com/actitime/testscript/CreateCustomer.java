@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 import com.actitime.genric.BaseClass;
 
-public class CreateCustomer {
+public class CreateCustomer{
 
 	@Test
 	public void TestCreateCustomer() {
